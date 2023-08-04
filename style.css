@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+}
+
+header{
+width:100% ;
+height: 100px;
+background-color: #9C972E;
+}
+
+main{
+width: 100%;
+height: 600px;
+background-color: #D3C37E;
+}
+
+footer{
+width: 100%;
+height: 90px;
+background-color: #295328;
+}
+
+.EcoTech{
+font-size: 80px;
+margin-top: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+text-align: justify;
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: 2px 2px gray;
+}
